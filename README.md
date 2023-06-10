@@ -4,12 +4,12 @@
 
 <p align="center">
 <a href="https://github.com/Nuzhatzeba">
-<a href="https://github.com/Nuzhatzeba"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Student;Passionate+Programmer;Backend+Web+Developer;Motivated;Love+to+read+" alt="Typing SVG" /></a></a>
+<a href="https://github.com/Nuzhatzeba"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+Student;A+Passionate+Programmer;Backend+Web+Developer;Self+Motivated+Person;Love+to+Read" alt="Typing SVG" /></a></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Nuzhatzeba" alt="NuzhatZeba"/> </p>
 <img alter = "coding" align = "right" width = "400" src = "gif1.png" >
-:wave: Hi there, My name is Nuzhat Zeba hailing from Dhaka, Bangladesh.I am a student at The University of Asia Pacific.
+:wave: Hi there, My name is Nuzhat Zeba. I am from Dhaka, Bangladesh. I am a Student, currently studying at the University of Asia Pacific in the Computer Science and Engineering Department. I am an enthusiastic, self-motivated, responsible and hard working person. 
 <br><br><p>- 🌱 I’m currently learning Machine Learning.<br><br>
 - 👨‍💻 All of my projects are available at [https://nuzhatzeba.github.io/Zeba.github.io/].<br><br>
 - 📫 How to reach me **nazhatzeba@gmail.com**<br>
