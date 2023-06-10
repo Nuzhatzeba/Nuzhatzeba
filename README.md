@@ -8,7 +8,7 @@
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Nuzhatzeba" alt="NuzhatZeba"/> </p>
-<img alter = "coding" align = "right" width = "400" src = "gif.png" >
+<img alter = "coding" align = "right" width = "400" src = "gif1.png" >
 :wave: Hi there, My name is Nuzhat Zeba hailing from Dhaka, Bangladesh.I am a student at The University of Asia Pacific.
 <br><br><p>- 🌱 I’m currently learning Machine Learning.<br><br>
 - 👨‍💻 All of my projects are available at [https://nuzhatzeba.github.io/Zeba.github.io/].<br><br>
