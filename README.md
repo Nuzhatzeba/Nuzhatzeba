@@ -12,7 +12,7 @@
 :wave: Hi there, My name is Nuzhat Zeba. I am from Dhaka, Bangladesh. I am a Student, currently studying at the University of Asia Pacific in the Computer Science and Engineering Department. I am an enthusiastic, self-motivated, responsible and hard working person. 
 <br><br><p>- 🌱 I’m currently learning Machine Learning.<br><br>
 - 👨‍💻 All of my projects are available at [https://nuzhatzeba.github.io/Zeba.github.io/].<br><br>
-- 📫 How to reach me **nazhatzeba@gmail.com**<br>
+- 📫 How to reach me <a href="mailto: nazhatzeba@gmail.com">**nazhatzeba@gmail.com**<br>
  </p><br><br>
 
 
